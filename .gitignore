@@ -1,0 +1,10 @@
+/.vs
+/.vscode
+/Backup
+/DerivedDataCache
+/Intermediate
+/Saved
+
+*.sln
+*.code-workspace
+*.vsconfig
